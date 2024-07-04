@@ -7,7 +7,7 @@
 -----
 
 <div id="badges" align="center">
-  <a href="mailto:istomin.05.3@gmail.com" style="text-decoration: none">
+  <a href="mailto:istomin.05.3@gmail.com" style=" text - decoration: none">
     <img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/codbid" style="text-decoration: none">
