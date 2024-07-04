@@ -1,4 +1,9 @@
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=292&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%98%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%BD+%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB" alt="Typing SVG" /></h1>
+<p align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=292&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%98%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%BD+%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB" alt="Typing SVG">
+</p>
+
 
 
 🔭 Я ищу стажировку - удалённо или в офисе в Новосибирске
