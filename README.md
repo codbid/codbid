@@ -6,6 +6,11 @@
 
 -----
 
+<div>
+  <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram Badge"/>
+</div>
+
+-----
 
 🔭 Я ищу стажировку - удалённо или в офисе в Новосибирске
 
