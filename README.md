@@ -6,7 +6,7 @@
 
 -----
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="mailto:istomin.05.3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
