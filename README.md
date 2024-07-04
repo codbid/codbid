@@ -29,9 +29,9 @@
 - 🤝 Моё резюме - <a href="https://novosibirsk.hh.ru/resume/d4d11fddff0d595ca30039ed1f6c7831465875">hh.ru</a>
 
 - Некоторые проекты:
-  + 1. <a href="https://github.com/codbid/oop_foxes_and_rabbits">Генетический алгоритм (C++)</a>
-  + 2. <a href="github.com/codbid/Tetris">Реализация тетриса на десктоп с нуля (Java, JavaFX)</a>
-  + 3. <a href="whieda-siberia.ru">Сайт компании Whieda Siberia (HTML, CSS, Js, Django Framework, and more)</a>
+  1. <a href="https://github.com/codbid/oop_foxes_and_rabbits">Генетический алгоритм (C++)</a>
+  2. <a href="github.com/codbid/Tetris">Реализация тетриса на десктоп с нуля (Java, JavaFX)</a>
+  3. <a href="whieda-siberia.ru">Сайт компании Whieda Siberia (HTML, CSS, Js, Django Framework, and more)</a>
 
 
 
