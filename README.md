@@ -6,11 +6,11 @@
 
 -----
 
-<div id="badges" align="center">
-  <a href="mailto:istomin.05.3@gmail.com" style=" text - decoration: none">
+<div align="center" style="text-decoration: none">
+  <a href="mailto:istomin.05.3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/codbid" style="text-decoration: none">
+  <a href="https://t.me/codbid">
     <img src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/codbid" style="text-decoration: none">
