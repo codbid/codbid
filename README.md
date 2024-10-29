@@ -30,7 +30,9 @@
 
 - Некоторые проекты:
   + <a href="https://github.com/codbid/oop_foxes_and_rabbits">Генетический алгоритм (C++)</a>
-  + <a href="https://github.com/codbid/Tetris">Реализация тетриса на десктоп с нуля (Java, JavaFX)</a>
+  + <a href="https://github.com/codbid/Tetris">Реализация тетриса на десктоп (Java, JavaFX)</a>
+  + <a href="https://github.com/codbid/battleship">Морской бой на десктоп (Java, JavaFX)</a>
+  + <a href="https://github.com/codbid/testcase">Микросервис для хранения документов (Java, Spring Boot)</a>
   + <a href="https://whieda-siberia.ru">Сайт компании Whieda Siberia (HTML, CSS, Js, Django Framework, and more)</a>
 
 
