@@ -29,7 +29,7 @@
 - 🤝 Моё резюме - <a href="https://novosibirsk.hh.ru/resume/d4d11fddff0d595ca30039ed1f6c7831465875">hh.ru</a>
 
 - Некоторые проекты:
-  + <a href="https://github.com/codbid/subscription-billing-service/tree/v1.0.0">Сервис подписок и биллинга, с интеграцией YooKassa APi (Java, Spring Boot, Kafka, and more)</a>
+  + <a href="https://github.com/codbid/subscription-billing-service">Сервис подписок и биллинга, с интеграцией YooKassa APi (Java, Spring Boot, Kafka, and more)</a>
   + <a href="https://github.com/codbid/oop_foxes_and_rabbits">Генетический алгоритм (C++)</a>
   + <a href="https://github.com/codbid/Tetris">Реализация тетриса на десктоп (Java, JavaFX)</a>
   + <a href="https://github.com/codbid/battleship">Морской бой на десктоп (Java, JavaFX)</a>
